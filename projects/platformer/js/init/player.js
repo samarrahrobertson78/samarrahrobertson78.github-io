@@ -1,4 +1,4 @@
-s(function (window) {
+(function (window) {
     'use strict';
     window.opspark = window.opspark || {};
     window.opspark.player = window.opspark.player || {};
