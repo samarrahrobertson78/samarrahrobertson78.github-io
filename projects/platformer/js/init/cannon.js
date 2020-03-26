@@ -26,12 +26,11 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
+    
+        
         // example: 
-        cannon.create(450);
-        cannon.create(200);
-        cannon.create(700);
-        cannon.create(800);
-        cannon.create(500);
+        createCannon("top", 450);
+        
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
